@@ -1,1 +1,12 @@
+id_venta,fecha,id_cliente,producto,cantidad,precio_unitario,total
+1001,2025-01-05,501,Teclado Mecánico,2,35.50,71.00
+1002,2025-01-05,503,Mouse Inalámbrico,1,18.99,18.99
+1003,2025-01-06,504,Auriculares Bluetooth,1,42.00,42.00
+1004,2025-01-06,502,Monitor 24 pulgadas,1,129.90,129.90
+1005,2025-01-07,505,Laptop i5,1,650.00,650.00
+1006,2025-01-07,501,USB 32GB,3,6.50,19.50
+1007,2025-01-08,507,Silla Gamer,1,199.00,199.00
+1008,2025-01-09,503,Teclado Mecánico,1,35.50,35.50
+1009,2025-01-10,508,Webcam HD,2,25.00,50.00
+1010,2025-01-10,507,Mouse Pad XL,1,10.00,10.00
 
