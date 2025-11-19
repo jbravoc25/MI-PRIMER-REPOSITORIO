@@ -1,1 +1,10 @@
+id_cliente,nombre,email,telefono,ciudad
+501,Carlos Mendez,carlosm@gmail.com,0987456321,Quito
+502,María López,marialopez@hotmail.com,0987213456,Guayaquil
+503,Juan Torres,juan.torres@yahoo.com,0998765432,Cuenca
+504,Ana Vera,ana.vera@gmail.com,0976543210,Ambato
+505,Pedro Cedeño,pcedeno@gmail.com,0982345678,Manta
+506,Sofía Enríquez,sofia.enriquez@hotmail.com,0989001234,Loja
+507,Luis Almeida,lalmeida@gmail.com,0993322110,Santo Domingo
+508,Martina Reyes,mar.reyes@gmail.com,0977334422,Portoviejo
 
